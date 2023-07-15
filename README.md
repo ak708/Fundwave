@@ -46,7 +46,7 @@ We welcome contributions from developers to enhance and expand the capabilities 
 
 ## Feedback and Support
 
-We value your feedback and are committed to continuously improving FundWave. If you encounter any issues, have suggestions for new features, or need support, please reach out to our support team at support@fundwave.com.
+We value your feedback and are committed to continuously improving FundWave. If you encounter any issues, have suggestions for new features, or need support, please reach out.
 
 ## License
 
